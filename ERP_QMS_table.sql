@@ -1,3 +1,5 @@
+--database table structure
+
 DROP DATABASE erp_db;
 CREATE DATABASE erp_db;
 USE erp_db;
